@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "727928414305",
+    "project_id": "derash-d0eb5",
+    "storage_bucket": "derash-d0eb5.appspot.com"
+  },
+
+
+
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727928414305:android:84b52ca70d35340cd00a20",
+        "android_client_info": {
+          "package_name": "com.example.derash2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727928414305-b68b266ulhpvp2bs60k45rn0drjpvg3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.derash2",
+            "certificate_hash": "bad662b85e3497762780ff87014d51b542973e06"
+          }
+        },
+        {
+          "client_id": "727928414305-pm27o5muubm203a1ltg2e8gjoq1dlg97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+
+
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyd9_fBU9WmRT-eZ3Tbx52JWj1Hp2GV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727928414305-pm27o5muubm203a1ltg2e8gjoq1dlg97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

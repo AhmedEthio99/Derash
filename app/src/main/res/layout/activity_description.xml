@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/userhome"
+    tools:context=".Description">
+
+    <FrameLayout
+        android:id="@+id/frame2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/Englishbtn"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="50dp"
+            android:backgroundTint="@color/black"
+            android:text="ENGLISH"
+            android:textStyle="bold"
+            app:backgroundTint="#4CAF50"
+            app:iconTint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/Amharicbtn"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="230dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="50dp"
+            android:backgroundTint="@color/black"
+            android:text="AMHARIC"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="190dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="50dp"
+            android:text="THANK YOU FOR USING DERASH WE PROVIDE INFORMATION ON AMBULANCE TYPES BASED ON YOUR PREFERRED  LANGUAGE "
+            android:textColor="@color/black"
+            android:textSize="24dp"
+            app:fontFamily="sans-serif-black" />
+
+
+    </FrameLayout>
+
+</RelativeLayout>

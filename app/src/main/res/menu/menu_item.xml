@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Ambtypes"
+        android:title="Ambulance Descriptions"
+        app:showAsAction="never" />
+    <item android:id="@+id/update"
+        android:title="Update"
+        app:showAsAction="never" />
+    <item android:id="@+id/delete"
+        android:title="Delete"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/Trip"
+        android:title="Trip History"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/supp_feed"
+        android:title="Support/Feedback"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>
